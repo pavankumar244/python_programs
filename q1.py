@@ -7,3 +7,4 @@ def my_map(fun,lst):
 def square(x):
     return x*2
 print(my_map(square,list(filter(lambda x: x%2==0,l))))
+print("check1")
