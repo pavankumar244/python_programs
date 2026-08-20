@@ -91,8 +91,4 @@
 #     return price
 # print(apply_discount(1000))
 #
-#
-#
-#
-#
-print("hello")
+
