@@ -24,7 +24,7 @@
 # @uppercase
 # def greet(name):
 #     return f"hello {name}"
-# print(greet("pavan"))
+# print(greet("oop"))
 # Write a decorator called double_result that multiplies the return value of a
 # function by 2. Apply it to a function add(a, b).
 

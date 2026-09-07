@@ -199,7 +199,7 @@ print(reduce(lambda x,y:x if x>y else y,l1))
 #Given a list of words, write a program to filter words with length greater than 3,
 # then convert them to uppercase using map(), and concatenate them into a single string
 # using reduce().
-l=['bob','jack','dia','alice','pavan']
+l=['bob','jack','dia','alice','oop']
 k=list(filter(lambda x:len(x)>3,l))
 # print(k)
 l1=list(map(lambda x:x.upper(),k))
